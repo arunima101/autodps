@@ -8,7 +8,7 @@ Methods: To tackle this scenario, we propose AutoDPS, an unsupervised method for
 Results: Despite being trained to denoise and tested on completely unseen corruptions, our method AutoDPS has shown ∼ 1.63 dB of improvement in PSNR over baselines for realistic 3D motion restoration and ∼ 0.5 dB of improvement for random motion with undersampling. Additionally, our experiments demonstrate AutoDPS’s resilience to noise and its generalisation capability under domain shift, showcasing its robustness and adaptability.
 Conclusion: In this paper, we propose an unsupervised method that removes multiple corruptions, mainly motion with undersampling, in MRI images which are essential for accurate diagnosis. The experiments show promising results on realistic and composite artifacts with higher improvement margins as compared to other methods.
 
-![cover-img](./figures/concept_diag.pdf)
+![cover-img](./figures/concept_diag.jpg)
 
 
 ## Training
