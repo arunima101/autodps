@@ -21,9 +21,9 @@ For inference on HCP make the below changes in ```sample.sh```,
 
 - Choose the desired degradation config file from ./configs and add in --task_config
 
-- Set output directory at --save_dir.
+- Set output directory at --save_dir
         -
-Run 
+- Run 
 ```
 bash sample.sh
 ```
